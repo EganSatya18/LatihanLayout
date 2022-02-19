@@ -1,4 +1,4 @@
-# LATIHAN LAYOUT
+# Latihan Layout
 # Activity Main 1
 ![Alt Text](https://github.com/EganSatya18/LatihanLayout/blob/master/Activity%20Main%201.jpeg)
 # Activity Main 2

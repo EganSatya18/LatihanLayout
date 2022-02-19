@@ -6,4 +6,4 @@
 # Activity Main 3
 ![Alt Text](https://github.com/EganSatya18/LatihanLayout/blob/master/Activity%20Main%203.jpeg)
 # Activity Main 4
-![Alt Text]()
+![Alt Text](https://github.com/EganSatya18/LatihanLayout/blob/master/Activity%20Main%204.jpeg)
